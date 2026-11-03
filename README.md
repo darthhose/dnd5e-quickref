@@ -16,9 +16,3 @@ Die Seite besteht nur aus einer Datei (`index.html`). Sie braucht keinen Build u
 ## Hinweis
 
 Inoffizielles Fanprojekt. Es steht in keiner Verbindung zu Wizards of the Coast. Dungeons & Dragons und D&D sind Marken von Wizards of the Coast LLC. Dieses Projekt ist nicht gewerblich.
-
-## Selbst veröffentlichen
-
-1. Repository forken oder die Dateien in ein eigenes Repository hochladen.
-2. Unter *Settings → Pages* den Branch `main` und den Ordner `/ (root)` auswählen.
-3. Nach ein bis zwei Minuten ist die Seite unter `https://darthhose.github.io/dnd5e-quickref/` erreichbar.
